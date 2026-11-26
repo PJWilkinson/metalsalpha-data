@@ -14,4 +14,4 @@ Files:
 - dealer-readings-last-7-days.csv: every validated dealer reading from the last 7 days (the full history is in this repository's commit history)
 
 Premiums and round trips are fractions (0.026 = 2.6%). Times are UTC.
-Exported 2026-11-25T19:45:25.228Z.
+Exported 2026-11-26T19:45:25.318Z.
